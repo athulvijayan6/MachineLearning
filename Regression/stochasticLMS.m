@@ -1,7 +1,7 @@
 % @Author: athul
 % @Date:   2014-05-13 10:05:12
-% @Last Modified by:   athul
-% @Last Modified time: 2014-05-22 20:09:19
+% @Last Modified by:   Athul Vijayan
+% @Last Modified time: 2014-05-22 21:59:39
 
 %% LMS: function description
 function [theta] = stochasticLMS(trainingInputs, trainingOutputs, learningRate, bias)
